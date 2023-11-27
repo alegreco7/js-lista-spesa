@@ -1,4 +1,4 @@
-let lista_spesa = ["uova", "latte", "cereali", "pane"]
+let listaSpesa = ["uova", "latte", "cereali", "pane"]
 
 let i = 0
 let lenLista = listaSpesa.length;
